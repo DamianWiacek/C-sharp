@@ -1,0 +1,15 @@
+C:\Users\dami0\source\repos\IntToIp\bin\Debug\net6.0\IntToIp.exe
+C:\Users\dami0\source\repos\IntToIp\bin\Debug\net6.0\IntToIp.deps.json
+C:\Users\dami0\source\repos\IntToIp\bin\Debug\net6.0\IntToIp.runtimeconfig.json
+C:\Users\dami0\source\repos\IntToIp\bin\Debug\net6.0\IntToIp.dll
+C:\Users\dami0\source\repos\IntToIp\bin\Debug\net6.0\IntToIp.pdb
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\IntToIp.csproj.AssemblyReference.cache
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\IntToIp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\IntToIp.AssemblyInfoInputs.cache
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\IntToIp.AssemblyInfo.cs
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\IntToIp.csproj.CoreCompileInputs.cache
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\IntToIp.dll
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\refint\IntToIp.dll
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\IntToIp.pdb
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\IntToIp.genruntimeconfig.cache
+C:\Users\dami0\source\repos\IntToIp\obj\Debug\net6.0\ref\IntToIp.dll
